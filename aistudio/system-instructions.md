@@ -11,6 +11,12 @@
 - On click, play a brief click/pulse animation on the button.
 - When there are no actions to execute, set the FAB to display: none.
 
+## File Size & Code Organisation
+
+- No single file should exceed 200 lines of code.
+- If a file grows beyond 200 lines, split it into smaller, focused files — by feature, component, or responsibility.
+- Each file should do one thing well. Avoid monolithic files that mix unrelated logic or UI.
+
 ## features.md (Mandatory)
 
 - Always create and maintain a features.md file in the project root.
