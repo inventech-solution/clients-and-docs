@@ -1,4 +1,4 @@
-# The Ultimate Guide to Single Phase Submersible Pump: Tips & Trends
+# Cutter Pump | Submersible Cutter Pump Manufacturers — Flow Chem Pumps
 
 # Cutter Pump
 

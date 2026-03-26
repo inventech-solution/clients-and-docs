@@ -1,4 +1,4 @@
-# Benefits of Submersible Water Pumps for Homes & Businesses
+# Benefits of Using Submersible Water Pumps in Residential and Commercial Settings
 
 # Benefits of Using Submersible Water Pumps in Residential and Commercial Settings
 

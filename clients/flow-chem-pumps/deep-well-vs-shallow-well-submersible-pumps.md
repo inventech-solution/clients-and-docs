@@ -1,6 +1,6 @@
 # Deep Well vs. Shallow Well Submersible Pumps: Key Differences
 
-# Deep Well vs. Shallow Well Submersible Pumps
+# Deep Well vs. Shallow Well Submersible Pumps: Key Differences
 
 Water is essential for daily life, whether for drinking, irrigation, or industrial purposes. Submersible pumps play a pivotal role in water extraction, offering efficient solutions for both deep and shallow wells.
 

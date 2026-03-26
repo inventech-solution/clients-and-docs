@@ -1,4 +1,4 @@
-# Pump Up Your Knowledge: Dive into Submersible Pumps
+# Pump Up Your Knowledge: A Detailed Look at Submersible Pumps
 
 # Pump Up Your Knowledge: A Detailed Look at Submersible Pumps
 

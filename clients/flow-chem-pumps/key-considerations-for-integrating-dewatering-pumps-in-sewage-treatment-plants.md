@@ -1,4 +1,4 @@
-# Key Considerations for Integrating Dewatering Pumps in STPs
+# Key Considerations for Integrating Dewatering Pumps in Sewage Treatment Plants
 
 # Key Considerations for Integrating Dewatering Pumps in Sewage Treatment Plants
 

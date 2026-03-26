@@ -1,6 +1,6 @@
-# Beginner’s Guide to Understanding Sewage Pump Flow Rates
+# A Beginner's Guide to Understanding Sewage Pump Flow Rates
 
-# A Beginner’s Guide to Understanding Sewage Pump Flow Rates
+# A Beginner's Guide to Understanding Sewage Pump Flow Rates
 
 When it comes to managing wastewater systems, one of the most critical components is the sewage pump. Whether you’re dealing with residential, commercial, or municipal sewage, the right pump ensures smooth and efficient flow of wastewater, minimizing the risk of backups, flooding, or damage to the system. Among the essential factors to consider when selecting a sewage pump, the flow rate stands out as one of the most important.
 

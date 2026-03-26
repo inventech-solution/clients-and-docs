@@ -1,4 +1,4 @@
-# Energy Efficient Sewage Pumps: Save Costs & Protect the Planet
+# Energy-Efficient Sewage Pumps: Save Money and Protect the Environment
 
 # Energy-Efficient Sewage Pumps: Save Money and Protect the Environment
 

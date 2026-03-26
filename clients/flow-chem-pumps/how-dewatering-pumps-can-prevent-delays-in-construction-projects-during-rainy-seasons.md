@@ -1,4 +1,4 @@
-# How Dewatering Pumps Prevent Construction Delays in Rainy - The Flow Chem Pumps
+# How Dewatering Pumps Can Prevent Delays in Construction Projects During Rainy Seasons
 
 # How Dewatering Pumps Can Prevent Delays in Construction Projects During Rainy Seasons
 

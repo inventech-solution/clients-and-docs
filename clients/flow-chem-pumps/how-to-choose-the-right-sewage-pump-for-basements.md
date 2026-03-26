@@ -1,4 +1,4 @@
-# How to Choose the Right Sewage Pump for Basements
+# How to Choose the Right Sewage Pump for Basement Applications
 
 # How to Choose the Right Sewage Pump for Basement Applications
 

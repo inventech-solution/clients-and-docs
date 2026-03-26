@@ -1,4 +1,4 @@
-# DIY Guide: How to Winterize Your Submersible Water Pump Easily
+# DIY Guide: How to Winterize Your Submersible Water Pump
 
 # DIY Guide: How to Winterize Your Submersible Water Pump
 

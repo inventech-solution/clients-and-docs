@@ -1,4 +1,4 @@
-# Reduce Sewage Pump Energy Costs Without Losing Performance 
+# How to Reduce Sewage Pump Energy Costs Without Sacrificing Performance
 
 # How to Reduce Sewage Pump Energy Costs Without Sacrificing Performance
 

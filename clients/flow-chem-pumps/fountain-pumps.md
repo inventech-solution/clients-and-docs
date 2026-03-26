@@ -1,4 +1,4 @@
-# Fountain Pump: Enhance Garden with Elegant Submersible Pump - The Flow Chem Pumps
+# Fountain Pumps: Enhance Your Garden with Elegant Submersible Solutions
 
 # Fountain Pumps: Enhance Your Garden with Elegant Submersible Solutions
 

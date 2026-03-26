@@ -1,6 +1,6 @@
-# The Ultimate Guide to 3hp submersible pump: Tips & Trends
+# 3HP Submersible Pump | Buy 3HP Submersible Pump — Flow Chem Pumps
 
-# 3hp submersible pump
+# 3HP Submersible Pump
 
 Looking for the best 3hp submersible pump? Explore our premium range of 3hp submersible pumps designed for efficiency, durability, and unmatched performance. Whether you need a submersible pump 1 hp, submersible pump 1.5 hp, 2hp submersible pump, or a 3hp submersible pump, we provide solutions for every need. Our 3hp submersible pump collection includes models for dewatering, drainage, sewage, and slurry applications.
 

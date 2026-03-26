@@ -1,4 +1,4 @@
-# How to Select a Submersible Pump with the Right Flow Rate
+# How to Select a Submersible Pump with the Right Flow Rate and Head Height
 
 # How to Select a Submersible Pump with the Right Flow Rate and Head Height
 

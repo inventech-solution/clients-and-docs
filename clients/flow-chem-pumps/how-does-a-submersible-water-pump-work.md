@@ -1,6 +1,6 @@
 # How Does a Submersible Water Pump Work?
 
-# How Does a Submersible Water Pump Work
+# How Does a Submersible Water Pump Work?
 
 Submersible water pumps have revolutionized the way water is moved and managed across industries. From draining flooded basements to powering irrigation systems, these pumps have become indispensable tools. This article provides an in-depth explanation of how submersible water pumps work, their key components, and applications, while also highlighting the various types like dewatering pumps, sewage pumps, and more.
 

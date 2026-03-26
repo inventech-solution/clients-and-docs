@@ -1,4 +1,4 @@
-# Eco-Friendly Sewage Pumps for Sustainable Wastewater Solutions
+# Eco-Friendly Sewage Pumps: Sustainable Solutions for Wastewater Management
 
 # Eco-Friendly Sewage Pumps: Sustainable Solutions for Wastewater Management
 

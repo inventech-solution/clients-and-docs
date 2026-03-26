@@ -1,4 +1,4 @@
-# Eco-Friendly Submersible Water Pump: The Future of Solar Energy
+# Eco-Friendly Submersible Water Pumps: Why Solar Pumps Are the Future
 
 # Eco-Friendly Submersible Water Pumps: Why Solar Pumps Are the Future
 

@@ -1,4 +1,4 @@
-# The Environmental Impact of Submersible Pumps: Sustainability Insights
+# Can Submersible Pumps Be Used for Saltwater? Key Considerations
 
 # Can Submersible Pumps Be Used for Saltwater? Key Considerations
 

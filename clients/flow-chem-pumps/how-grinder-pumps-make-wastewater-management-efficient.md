@@ -1,4 +1,4 @@
-# How Grinder Pumps Make Wastewater Management Efficient
+# How Grinder Pumps Make Wastewater Management More Efficient
 
 # How Grinder Pumps Make Wastewater Management More Efficient
 

@@ -1,4 +1,4 @@
-# The Environmental Impact of Submersible Pumps: Sustainability Insights
+# How Much Electricity Does a Submersible Water Pump Consume?
 
 # How Much Electricity Does a Submersible Water Pump Consume?
 

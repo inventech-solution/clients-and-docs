@@ -1,4 +1,4 @@
-# Durable Submersible Pumps for Heavy-Duty Industrial Use
+# Durable Submersible Pumps for Heavy-Duty Industrial Applications
 
 # Durable Submersible Pumps for Heavy-Duty Industrial Applications
 
