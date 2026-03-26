@@ -94,7 +94,7 @@ When choosing a sewage pump, consider the following factors:
 
 * Energy Efficiency: Higher flow rates typically require more power. Look for pumps that are energy-efficient to minimize long-term operational costs.
 
-* Manufacturer Specifications: Review datasheets and performance curves provided by manufacturers like Grundfos or All Pumps, ensuring that the pump you select matches your system's needs.
+* Manufacturer Specifications: Review datasheets and performance curves provided by the manufacturer, ensuring that the pump you select matches your system's needs.
 
 ## Conclusion
 

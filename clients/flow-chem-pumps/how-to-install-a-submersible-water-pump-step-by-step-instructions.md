@@ -147,4 +147,4 @@ Submersible water pumps are versatile and used across various industries:
 
 Installing a submersible water pump can be straightforward with the right tools and preparation. Whether you need a submersible pump 1 hp for a domestic well or a cutter pump sewage for wastewater management, following the steps outlined ensures a seamless setup.
 
-If you’re looking for high-quality pumps, explore options from trusted dewatering pump manufacturers or slurry pump manufacturers to get the best performance and durability. For more detailed product recommendations, check out Grabenord’s range of submersible pumps and accessories.
+If you’re looking for high-quality pumps, explore options from trusted dewatering pump manufacturers or slurry pump manufacturers to get the best performance and durability. Flow Chem Pumps offers a comprehensive range of submersible pumps suited for every industrial and construction application.

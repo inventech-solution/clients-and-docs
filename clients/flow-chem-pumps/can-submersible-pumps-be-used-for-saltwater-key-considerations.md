@@ -74,7 +74,7 @@ Submersible pumps come in many variations. Choosing the right one depends on you
 
 ### 1. Submersible Water Pump
 
-General-purpose pump for clean or mildly contaminated water. Used in domestic borewells, irrigation, and tanks.
+General-purpose pump for clean or mildly contaminated water. Used in domestic water supply systems, irrigation, and tanks.
 
 ### 2. Submersible Sump Pump
 
@@ -102,7 +102,7 @@ Picking the right motor size is essential. Let’s compare common submersible pu
 
 ### Submersible Pump 1 HP
 
-Ideal for domestic borewell and small sump pumps. Good for clean water or light drainage. Not suitable for heavy saltwater sewage.
+Ideal for domestic water supply and small sump pumps. Good for clean water or light drainage. Not suitable for heavy saltwater sewage.
 
 ### Submersible Pump 1.5 HP
 
@@ -120,7 +120,7 @@ Heavy-duty for slurry, sewage sludge, and saltwater dredging. Used in shipyards,
 
 ### Domestic Use
 
-* Borewell pumping
+* Domestic water supply and well pumping
 
 * Basement flood prevention with sump pumps
 
