@@ -133,3 +133,12 @@ Installing a sewage pump is a task that requires careful planning, the right too
 Proper installation and regular maintenance are crucial to ensuring that your sewage pump operates efficiently for years to come. Whether you’re using a submersible water pump, dewatering pump, or sludge pump, following these steps will help you avoid common pitfalls and keep your system running smoothly.
 
 For those working in more challenging environments, consider specialized pumps like the submersible slurry pump or the submersible agitator pump. These pumps are designed to handle tougher jobs and will provide the durability needed in more demanding applications.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Cutter Pump](cutter-pump.md)
+- [how-to-install-a-submersible-water-pump-step-by-step-instructions.md](how-to-install-a-submersible-water-pump-step-by-step-instructions.md)
+- [Maintenance Tips for Sewage Pumps](maintenance-tips-for-sewage-pumps.md)

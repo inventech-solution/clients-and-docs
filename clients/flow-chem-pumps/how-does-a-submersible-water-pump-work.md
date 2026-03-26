@@ -160,3 +160,12 @@ When selecting a submersible pump, consider:
 A submersible pump is a powerful, efficient solution for moving water in a variety of settings. From sewage pumps to dewatering pumps for construction, these versatile tools play a crucial role in modern water management. Understanding how they work and following proper maintenance practices will ensure optimal performance and longevity.
 
 Investing in the best submersible pump tailored to your needs can make all the difference in efficiency and reliability.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump](dewatering-pump.md)
+- [How Submersible Sewage Pumps Work](how-submersible-sewage-pumps-work.md)
+- [How to Select a Submersible Pump: Flow Rate & Head Height](how-to-select-a-submersible-pump-with-the-right-flow-rate-and-head-height.md)

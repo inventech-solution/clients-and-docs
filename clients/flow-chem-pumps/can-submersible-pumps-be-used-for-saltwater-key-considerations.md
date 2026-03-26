@@ -152,3 +152,11 @@ Submersible pumps can reliably handle saltwater — but only when specified and 
 For residential coastal drainage, a 1–1.5 HP stainless steel sump pump is the right fit. For construction dewatering in saline conditions, a 2HP marine-grade submersible dewatering pump is the standard. For slurry, sewage sludge, and large STP applications, a 3HP sewage or slurry pump in SS316 with double mechanical seals delivers the reliability needed.
 
 Flow Chem Pumps manufactures a full range of submersible pumps in cast iron, SS304, and SS316 — designed for continuous industrial duty in the most demanding conditions, including saltwater environments. Contact our technical team to specify the right pump for your application.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump](dewatering-pump.md)
+- [Advancements in Dewatering Pump Technology](advancements-in-dewatering-pump-technology-for-aggressive-chemical-environments.md)

@@ -65,3 +65,12 @@ For applications where solids are present, a submersible sewage pump or sewage s
 Reducing the energy costs of your sewage pump system without sacrificing performance is not only achievable but essential for long-term operational success. By choosing the right pump, maintaining it properly, and leveraging advanced technologies like VFDs and smart controllers, you can significantly reduce energy consumption. Whether you’re using a submersible pump, dewatering pump, or slurry pump, the key is to match the pump to the application, ensuring it operates at peak efficiency while minimizing waste.
 
 From residential applications using submersible water pumps to large-scale industrial operations with dewatering pumps for construction, energy efficiency is within reach. By working with slurry pump manufacturers and dewatering pump manufacturers who prioritize innovation and efficiency, you can ensure that your sewage pump system delivers the performance you need while keeping energy costs in check.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump](dewatering-pump.md)
+- [Energy-Efficient Sewage Pumps](energy-efficient-sewage-pumps.md)
+- [how-much-electricity-does-a-submersible-water-pump-consume.md](how-much-electricity-does-a-submersible-water-pump-consume.md)

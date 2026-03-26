@@ -161,3 +161,12 @@ Choosing the right pump not only affects performance but also impacts energy con
 ## Conclusion
 
 Whether you need a submersible pump 1 hp for domestic use or a dewatering pump submersible for construction, understanding the differences between deep and shallow well pumps is essential. By evaluating your specific needs, you can select the best submersible pump to ensure efficiency and reliability.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump](dewatering-pump.md)
+- [How to Select a Submersible Pump: Flow Rate & Head Height](how-to-select-a-submersible-pump-with-the-right-flow-rate-and-head-height.md)
+- [how-to-choose-the-best-submersible-pump-for-your-needs.md](how-to-choose-the-best-submersible-pump-for-your-needs.md)

@@ -41,3 +41,12 @@ When selecting a dewatering pump submersible, consider both the upfront cost and
 The electricity consumption of submersible pumps can vary widely, but understanding these key aspects can help you make informed decisions that reduce costs and increase efficiency. Whether you’re dealing with submersible drainage pump setups or complex sewage sludge pump systems, the right knowledge and equipment are key to optimizing performance and sustainability.
 
 By following these guidelines, you can ensure that your submersible pump setup is as energy-efficient and cost-effective as possible, providing reliable service while minimizing environmental impact.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump](dewatering-pump.md)
+- [reduce-sewage-pump-energy-costs-without-losing-performance.md](reduce-sewage-pump-energy-costs-without-losing-performance.md)
+- [Energy-Efficient Sewage Pumps](energy-efficient-sewage-pumps.md)

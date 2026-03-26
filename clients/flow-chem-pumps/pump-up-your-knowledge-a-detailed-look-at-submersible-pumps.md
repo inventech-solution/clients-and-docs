@@ -51,3 +51,12 @@ The market for submersible pumps features a range of manufacturers, each contrib
 Submersible pumps play a pivotal role in enhancing the efficiency of water management systems and supporting a myriad of industrial operations. Their ability to handle diverse and challenging environments makes them a cornerstone of modern industrial equipment. This guide provides a foundation for understanding the breadth and depth of submersible pump applications and helps professionals make informed decisions about their selection and maintenance.
 
 This extensive exploration of submersible pumps serves as a cornerstone for industry professionals and individuals aiming to deepen their understanding of these crucial devices, guiding them through selection, application, and maintenance to optimize their operational systems.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Cutter Pump](cutter-pump.md)
+- [How Does a Submersible Water Pump Work?](how-does-a-submersible-water-pump-work.md)
+- [How Submersible Sewage Pumps Work](how-submersible-sewage-pumps-work.md)

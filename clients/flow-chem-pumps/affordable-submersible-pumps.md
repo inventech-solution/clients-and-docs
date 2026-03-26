@@ -141,3 +141,12 @@ Know More
 Submersible Agitator Slurry Pump
 
 Know More
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [2HP Submersible Pump](2hp-submersible-pump.md)
+- [Comparing Sewage Pump Specifications](comparing-sewage-pump-brands-which-one-offers-the-best-value.md)
+- [how-to-choose-the-best-submersible-pump-for-your-needs.md](how-to-choose-the-best-submersible-pump-for-your-needs.md)

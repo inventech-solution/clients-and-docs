@@ -61,3 +61,12 @@ Despite the advancements, the sector faces challenges such as adapting to climat
 ## Conclusion: A Sustainable Future
 
 The blog would conclude by emphasizing the crucial role of innovation in dewatering practices within marine construction. It would underline the importance of embracing new technologies and strategies to ensure that marine construction remains sustainable, efficient, and less intrusive to the natural and human environments.
+
+---
+
+## Related reading
+
+- [Dewatering Pump](dewatering-pump.md)
+- [Dewatering Pumps for Construction](dewatering-pumps-for-construction.md)
+- [Advancements in Dewatering Pump Technology](advancements-in-dewatering-pump-technology-for-aggressive-chemical-environments.md)
+- [Can Submersible Pumps Be Used for Saltwater?](can-submersible-pumps-be-used-for-saltwater-key-considerations.md)

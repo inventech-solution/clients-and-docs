@@ -77,3 +77,12 @@ Maintaining submersible pumps involves regular inspection for wear and tear, che
 ## Conclusion
 
 submersible pumps are invaluable in many contexts, from residential to industrial settings. Understanding the types of submersible pumps and their specific uses helps users choose the appropriate model and maintain it properly, ensuring efficiency and longevity in performance.
+
+---
+
+## Related reading
+
+- [Cutter Pump](cutter-pump.md)
+- [Submersible Pump Range](best-submersible-pump.md)
+- [How Does a Submersible Water Pump Work?](how-does-a-submersible-water-pump-work.md)
+- [Maintenance Tips for Sewage Pumps](maintenance-tips-for-sewage-pumps.md)
