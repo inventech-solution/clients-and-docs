@@ -64,7 +64,7 @@ In the construction industry, keeping water out of excavation sites is critical.
 
 For more demanding applications, it’s essential to work with reputable slurry pump manufacturers and sludge pump manufacturers. These companies design pumps that can handle the most abrasive and challenging environments, such as mining, wastewater treatment, and other industrial applications.
 
-Some of the top dewatering pump manufacturers also specialize in pumps for the construction and mining industries. Companies like Flygt, KSB, and Xylem offer durable, reliable pumps that can withstand the rigors of heavy-duty applications.
+Leading dewatering pump manufacturers specialise in pumps for the construction and mining industries, offering durable, reliable solutions that can withstand the rigours of heavy-duty applications. Flow Chem Pumps is a trusted manufacturer in this space, with a proven range built for demanding site conditions.
 
 ## Conclusion
 

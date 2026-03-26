@@ -40,7 +40,7 @@ Using a single phase submersible pump, especially for home gardens, ensures comp
 
 ### 2. Reliable Water Source Utilization
 
-If your garden depends on a borewell, rainwater tank, or underground reservoir, a submersible water pump can effectively extract and deliver this water where needed. Pumps like the submersible pump 1.5 hp offer high lifting capabilities for deep sources.
+If your garden depends on a rainwater tank, underground reservoir, or open well, a submersible water pump can effectively extract and deliver this water where needed. Pumps like the submersible pump 1.5 hp offer high lifting capabilities for deep sources.
 
 ### 3. Pond and Fountain Maintenance
 

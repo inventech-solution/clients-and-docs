@@ -96,27 +96,15 @@ A cutter pump has blades that chop up solid waste, making it ideal for sewage an
 
 * Pump Type: Choose specialized models like cutter pump sewage or submersible agitator pumps for specific needs.
 
-## Top Brands and Manufacturers
+## Why Choose Flow Chem Pumps?
 
-Manufacturer
-Specialty
+Flow Chem Pumps is an ISO 9001:2015 certified manufacturer with over 20 years of experience in submersible pump technology. Every pump is built for continuous industrial duty — not light residential use.
 
-Grabenord
-Affordable, high-quality submersible pumps
-
-Moglix
-Industrial and construction-grade sludge pumps
-
-Unnati Pumps
-Efficient submersible dewatering pumps
-
-## Why Choose Grabenord Submersible Pumps?
-
-Grabenord offers a wide range of submersible pumps tailored for every need:
-
-* Submersible water pumps for residential and industrial use.
-
-* Durable submersible slurry pumps designed for heavy-duty tasks.
+* Full range of submersible pumps for sewage, dewatering, slurry, and drainage applications.
+* Copper-wound motors with IP68 protection for reliable submerged operation.
+* Available in cast iron, SS304, and SS316 construction to suit every environment.
+* Power range from 1 HP to 15 HP across product lines.
+* Trusted by builders, contractors, and industrial dealers across India.
 
 ## Conclusion
 
