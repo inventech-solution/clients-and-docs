@@ -1,3 +1,7 @@
+---
+description: "How to choose the right submersible pump — matching pump type, flow rate, head, MOC, and power supply to your specific drainage, sewage, or dewatering application."
+---
+
 # How to Choose the Best Submersible Pump for Your Needs
 
 # How to Choose the Best Submersible Pump for Your Needs
@@ -163,3 +167,4 @@ For reliable and high-quality options, explore products from trusted submersible
 - [Dewatering Pump](dewatering-pump.md)
 - [How to Select a Submersible Pump: Flow Rate & Head Height](how-to-select-a-submersible-pump-with-the-right-flow-rate-and-head-height.md)
 - [Comparing Sewage Pump Specifications](comparing-sewage-pump-brands-which-one-offers-the-best-value.md)
+- [How to Choose the Best Sewage Pump for Your Septic System](how-to-choose-the-best-sewage-pump-for-your-septic-system.md)

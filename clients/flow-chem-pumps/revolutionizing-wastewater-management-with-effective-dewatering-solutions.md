@@ -1,3 +1,7 @@
+---
+description: "How modern dewatering solutions are transforming wastewater management — rotary press technology, submersible pumps, IoT monitoring, and environmental benefits."
+---
+
 # Revolutionizing Wastewater Management with Effective Dewatering Solutions
 
 # Revolutionizing Wastewater Management with Effective Dewatering Solutions

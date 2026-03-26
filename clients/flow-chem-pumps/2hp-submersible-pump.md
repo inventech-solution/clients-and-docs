@@ -1,3 +1,7 @@
+---
+description: "Flow Chem 2HP submersible pumps for construction dewatering, sewage, and drainage. IP68, copper-wound motor, S1 continuous duty. Cast iron, SS304, SS316 available."
+---
+
 # 2HP Submersible Pump | Buy 2HP Submersible Pump — Flow Chem Pumps
 
 # 2HP Submersible Pump

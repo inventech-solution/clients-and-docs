@@ -1,3 +1,7 @@
+---
+description: "Submersible cutter pumps for sewage with fibrous waste and solids. Hardened steel cutter, IP68, double mechanical seal. 1–15 HP. ISO certified — Flow Chem Pumps."
+---
+
 # Cutter Pump | Submersible Cutter Pump Manufacturers — Flow Chem Pumps
 
 # Cutter Pump

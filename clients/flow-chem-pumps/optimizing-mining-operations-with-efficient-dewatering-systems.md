@@ -1,3 +1,7 @@
+---
+description: "Optimizing mining dewatering — pump selection, smart monitoring, renewable energy integration, and analytical methods for efficient water management in mine operations."
+---
+
 # Optimizing Mining Operations with Efficient Dewatering Systems
 
 # Optimizing Mining Operations with Efficient Dewatering Systems

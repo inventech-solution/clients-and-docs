@@ -1,3 +1,7 @@
+---
+description: "How dewatering pumps prevent construction delays during rainy season — pump selection, placement strategy, and maintenance for uninterrupted site operations."
+---
+
 # How Dewatering Pumps Can Prevent Delays in Construction Projects During Rainy Seasons
 
 # How Dewatering Pumps Can Prevent Delays in Construction Projects During Rainy Seasons

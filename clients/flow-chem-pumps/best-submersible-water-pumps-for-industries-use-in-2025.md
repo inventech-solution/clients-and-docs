@@ -1,3 +1,7 @@
+---
+description: "Guide to industrial submersible pumps in 2025 — key features, types, and selection criteria for construction, mining, wastewater, and process industries."
+---
+
 # Best Submersible Water Pumps for Industrial Use in 2025
 
 # Best Submersible Water Pumps for Industrial Use in 2025

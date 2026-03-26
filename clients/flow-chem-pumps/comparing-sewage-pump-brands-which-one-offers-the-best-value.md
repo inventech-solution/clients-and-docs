@@ -1,3 +1,7 @@
+---
+description: "How to compare sewage pump specifications for best value — build quality, seal type, solid handling, IP rating, and total cost of ownership. Specification-first guide."
+---
+
 # Comparing Sewage Pump Specifications: What Offers the Best Value?
 
 # Comparing Sewage Pumps: What to Look for to Get the Best Value
@@ -86,3 +90,4 @@ The best value in a sewage pump comes from matching specifications precisely to 
 - [Cutter Pump](cutter-pump.md)
 - [how-to-choose-the-best-submersible-pump-for-your-needs.md](how-to-choose-the-best-submersible-pump-for-your-needs.md)
 - [Sewage Pump Installation Costs](a-complete-overview-of-sewage-pump-installation-costs-and-considerations.md)
+- [Affordable Submersible Pumps: Reliable & Cost-Effective Solutions](affordable-submersible-pumps.md)

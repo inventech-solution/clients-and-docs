@@ -1,3 +1,7 @@
+---
+description: "Flow Chem 3HP submersible pumps for heavy-duty dewatering, sewage, and slurry applications. Three phase, IP68, S1 continuous duty. ISO 9001:2015 certified manufacturer."
+---
+
 # 3HP Submersible Pump | Buy 3HP Submersible Pump — Flow Chem Pumps
 
 # 3HP Submersible Pump

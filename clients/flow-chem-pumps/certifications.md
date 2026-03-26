@@ -1,3 +1,7 @@
+---
+description: "Flow Chem Pumps holds ISO 9001:2015, ISO 14001, and ISO 45001 certifications. Quality, environmental, and occupational safety management systems certified."
+---
+
 # Certifications — Flow Chem Pumps
 
 # ISO Certifications

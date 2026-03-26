@@ -1,3 +1,7 @@
+---
+description: "How to select a submersible pump by flow rate and head — understanding performance curves, calculating TDH, and matching pump specifications to system requirements."
+---
+
 # How to Select a Submersible Pump with the Right Flow Rate and Head Height
 
 # How to Select a Submersible Pump with the Right Flow Rate and Head Height

@@ -1,3 +1,7 @@
+---
+description: "Yes — with the right materials. Guide to saltwater submersible pumps: SS316, bronze, IP68, double seals. HP sizing, STP applications, and maintenance for saline environments."
+---
+
 # Can Submersible Pumps Be Used for Saltwater? Key Considerations
 
 # Can Submersible Pumps Be Used for Saltwater? Key Considerations
@@ -160,3 +164,4 @@ Flow Chem Pumps manufactures a full range of submersible pumps in cast iron, SS3
 - [Submersible Pump Range](best-submersible-pump.md)
 - [Dewatering Pump](dewatering-pump.md)
 - [Advancements in Dewatering Pump Technology](advancements-in-dewatering-pump-technology-for-aggressive-chemical-environments.md)
+- [Innovative Dewatering Practices for Marine Construction Projects](innovative-dewatering-practices-for-marine-construction-projects.md)

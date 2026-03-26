@@ -1,3 +1,7 @@
+---
+description: "How dewatering pumps support environmental compliance — managing runoff, preventing groundwater contamination, and meeting regulatory requirements."
+---
+
 # How Dewatering Pumps Contribute to Environmental Compliance
 
 # How Dewatering Pumps Contribute to Environmental Compliance
@@ -108,3 +112,4 @@ Dewatering pumps are more than just equipment; they are a critical component of 
 - [Cutter Pump](cutter-pump.md)
 - [Integrating Dewatering Pumps in Sewage Treatment Plants](key-considerations-for-integrating-dewatering-pumps-in-sewage-treatment-plants.md)
 - [Dewatering Challenges in Urban Wastewater Systems](challenges-and-solutions-for-dewatering-in-urban-wastewater-systems.md)
+- [Innovative Dewatering Practices for Marine Construction Projects](innovative-dewatering-practices-for-marine-construction-projects.md)

@@ -1,3 +1,7 @@
+---
+description: "Flow Chem manufactures heavy-duty submersible dewatering pumps for construction, mining, and industrial use. IP68, copper-wound motors, 1–15 HP. ISO 9001:2015 certified."
+---
+
 # Dewatering Pump | Submersible Dewatering Pump Solutions — Flow Chem
 
 # Dewatering Pump

@@ -1,3 +1,7 @@
+---
+description: "Innovative dewatering for marine construction — submersible pump selection, cutter pump use, environmental compliance, and smart monitoring in coastal environments."
+---
+
 # Innovative Dewatering Practices for Marine Construction Projects
 
 # Innovative Dewatering Practices for Marine Construction Projects

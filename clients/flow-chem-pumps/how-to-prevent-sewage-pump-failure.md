@@ -1,3 +1,7 @@
+---
+description: "How to prevent sewage pump failure — correct specification, proper installation, regular maintenance, motor protection, and early warning signs to watch for."
+---
+
 # How to Prevent Sewage Pump Failure
 
 # How to Prevent Sewage Pump Failure

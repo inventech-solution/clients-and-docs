@@ -1,3 +1,7 @@
+---
+description: "Flow Chem manufactures ISO-certified submersible pumps for sewage, dewatering, slurry, and drainage. 1–15 HP, cast iron/SS304/SS316. 20+ years manufacturing experience."
+---
+
 # Best Submersible Pump | High-Performance Submersible Pumps — Flow Chem
 
 # Best Submersible Pump
@@ -103,3 +107,4 @@ Email: saleflowchem@gmail.com
 - [2HP Submersible Pump](2hp-submersible-pump.md)
 - [3HP Submersible Pump](3hp-submersible-pump.md)
 - [Dewatering Pump Manufacturers](dewatering-pump-manufacturers.md)
+- [4-Pole Submersible Sewage / Slurry Pump](4-pole-submersible-sewage-slurry-pump.md)

@@ -1,3 +1,7 @@
+---
+description: "Flow Chem Pumps — ISO 9001:2015 certified submersible pump manufacturer. Sewage, dewatering, drainage, cutter, and slurry pumps. 20 years experience. Gujarat, India."
+---
+
 # The Flow Chem Pumps Pvt. Ltd.
 
 # Reliable Pumps for a Better Tomorrow

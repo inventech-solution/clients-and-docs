@@ -1,3 +1,7 @@
+---
+description: "How modern dewatering pump technology handles corrosive, abrasive, and chemically aggressive environments — materials, seals, smart monitoring, and design innovations."
+---
+
 # Advancements in Dewatering Pump Technology for Aggressive Chemical Environments
 
 # Advancements in Dewatering Pump Technology for Aggressive Chemical Environments

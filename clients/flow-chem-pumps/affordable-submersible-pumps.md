@@ -1,3 +1,7 @@
+---
+description: "Reliable submersible pumps at competitive price points. Flow Chem offers ISO-certified sewage, dewatering, and drainage pumps for industrial and construction use."
+---
+
 # Affordable Submersible Pumps | Reliable & Cost-Effective Solutions
 
 # Affordable Submersible Pumps | Reliable & Cost-Effective Solutions

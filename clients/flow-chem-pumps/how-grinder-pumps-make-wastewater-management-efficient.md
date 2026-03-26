@@ -1,3 +1,7 @@
+---
+description: "How grinder pumps improve wastewater management — the grinding mechanism, applications in residential and municipal sewage, and comparison with standard sewage pumps."
+---
+
 # How Grinder Pumps Make Wastewater Management More Efficient
 
 # How Grinder Pumps Make Wastewater Management More Efficient

@@ -1,3 +1,7 @@
+---
+description: "How to choose the right sewage pump for high-rise buildings — flow rate, head pressure, solid handling, cutter mechanisms, and power requirements."
+---
+
 # Choosing the Right Sewage Pump for High-Rise Buildings 
 
 # Choosing the Right Sewage Pump for High-Rise Buildings

@@ -1,3 +1,7 @@
+---
+description: "How to maintain and clean a submersible pump — routine inspection schedule, cleaning steps, seal checks, and preventive maintenance to extend pump service life."
+---
+
 # How to Maintain and Clean Your Submersible Pump for Longevity
 
 # How to Maintain and Clean Your Submersible Pump for Longevity

@@ -1,3 +1,7 @@
+---
+description: "Key considerations for dewatering pumps in sewage treatment plants — capacity, materials, energy efficiency, installation, maintenance, and smart monitoring integration."
+---
+
 # Key Considerations for Integrating Dewatering Pumps in Sewage Treatment Plants
 
 # Key Considerations for Integrating Dewatering Pumps in Sewage Treatment Plants

@@ -1,3 +1,7 @@
+---
+description: "Solar-powered submersible pumps — how they work, where they are cost-effective, and what to consider for agricultural, remote, and off-grid applications."
+---
+
 # Eco-Friendly Submersible Water Pumps: Why Solar Pumps Are the Future
 
 # Eco-Friendly Submersible Water Pumps: Why Solar Pumps Are the Future

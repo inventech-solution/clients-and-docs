@@ -1,3 +1,7 @@
+---
+description: "Energy-efficient sewage pumps — how VFDs, high-efficiency motors, and correct sizing reduce operating costs and carbon footprint in wastewater management systems."
+---
+
 # Energy-Efficient Sewage Pumps: Save Money and Protect the Environment
 
 # Energy-Efficient Sewage Pumps: Save Money and Protect the Environment

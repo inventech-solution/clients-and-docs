@@ -1,3 +1,7 @@
+---
+description: "Dewatering solutions for remote mining — submersible pumps, smart monitoring, renewable energy integration, and water management strategies for isolated mine sites."
+---
+
 # Dewatering Solutions for Remote and Challenging Mining Locations
 
 # Dewatering Solutions for Remote and Challenging Mining Locations

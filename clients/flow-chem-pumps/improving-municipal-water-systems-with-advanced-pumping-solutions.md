@@ -1,3 +1,7 @@
+---
+description: "How advanced submersible pumps improve municipal water systems — dewatering, sewage management, flood control, and smart monitoring for urban infrastructure."
+---
+
 # Improving Municipal Water Systems with Advanced Pumping Solutions
 
 # Improving Municipal Water Systems with Advanced Pumping Solutions

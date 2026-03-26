@@ -1,3 +1,7 @@
+---
+description: "Expert tips for maintaining submersible pumps — routine inspection schedules, advanced maintenance techniques, and how to maximise service life across all pump types."
+---
+
 # Maintaining Your Submersible Pump: Tips by Industry Experts
 
 # Maintaining Your Submersible Pump: Tips by Industry Experts

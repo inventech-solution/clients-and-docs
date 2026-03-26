@@ -1,3 +1,7 @@
+---
+description: "Flow Chem Pumps — ISO 9001:2015 certified dewatering pump manufacturers in India. 1–15 HP submersible pumps for construction, mining, STP, ETP. Factory in Gujarat."
+---
+
 # Dewatering Pump Manufacturers in India — Flow Chem Pumps
 
 # Dewatering Pump Manufacturers
@@ -96,3 +100,4 @@ Website: www.theflowchempumps.com
 - [Dewatering Pumps for Construction](dewatering-pumps-for-construction.md)
 - [Submersible Pump Range](best-submersible-pump.md)
 - [Advancements in Dewatering Pump Technology](advancements-in-dewatering-pump-technology-for-aggressive-chemical-environments.md)
+- [4-Pole Submersible Sewage / Slurry Pump](4-pole-submersible-sewage-slurry-pump.md)

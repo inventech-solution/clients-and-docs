@@ -1,3 +1,7 @@
+---
+description: "How to choose the right sewage pump for basement applications — HP requirements, solid handling, drainage vs sewage pump types, and installation considerations."
+---
+
 # How to Choose the Right Sewage Pump for Basement Applications
 
 # How to Choose the Right Sewage Pump for Basement Applications

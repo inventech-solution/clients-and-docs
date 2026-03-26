@@ -1,3 +1,7 @@
+---
+description: "Complete guide to sewage pump installation costs in India — pump pricing in INR, civil works, electrical, automation, and maintenance. B2B industrial focus."
+---
+
 # Sewage Pump Installation Costs: Complete Guide & Key Factors
 
 # Sewage Pump Installation Costs and Considerations

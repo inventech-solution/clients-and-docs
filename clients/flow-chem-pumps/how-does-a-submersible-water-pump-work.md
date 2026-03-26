@@ -1,3 +1,7 @@
+---
+description: "How submersible water pumps work — the working principle, key components, types, and why submersible pumps are more efficient than surface alternatives."
+---
+
 # How Does a Submersible Water Pump Work?
 
 # How Does a Submersible Water Pump Work?
@@ -169,3 +173,4 @@ Investing in the best submersible pump tailored to your needs can make all the d
 - [Dewatering Pump](dewatering-pump.md)
 - [How Submersible Sewage Pumps Work](how-submersible-sewage-pumps-work.md)
 - [How to Select a Submersible Pump: Flow Rate & Head Height](how-to-select-a-submersible-pump-with-the-right-flow-rate-and-head-height.md)
+- [Pump Up Your Knowledge: A Detailed Look at Submersible Pumps](pump-up-your-knowledge-a-detailed-look-at-submersible-pumps.md)

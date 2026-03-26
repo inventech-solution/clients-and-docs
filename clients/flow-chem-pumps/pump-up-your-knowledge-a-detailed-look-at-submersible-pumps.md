@@ -1,3 +1,7 @@
+---
+description: "Detailed guide to submersible pumps — types, applications, selection criteria, installation, and maintenance covering all major submersible pump categories."
+---
+
 # Pump Up Your Knowledge: A Detailed Look at Submersible Pumps
 
 # Pump Up Your Knowledge: A Detailed Look at Submersible Pumps

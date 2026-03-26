@@ -1,3 +1,7 @@
+---
+description: "Submersible drainage pumps for construction, stormwater, and industrial use. IP68, single and three phase, 1–7.5 HP. ISO 9001:2015 manufacturer — Flow Chem Pumps."
+---
+
 # Drainage Pump | Submersible Drainage Pump Manufacturer — Flow Chem
 
 # Drainage Pump

@@ -1,3 +1,7 @@
+---
+description: "Maintenance tips for sewage pumps — inspection schedules, cleaning, lubrication, electrical checks, and specific guidance for submersible, cutter, and slurry pumps."
+---
+
 # Maintenance Tips for Sewage Pumps
 
 # Maintenance Tips for Sewage Pumps

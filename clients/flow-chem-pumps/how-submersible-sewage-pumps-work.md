@@ -1,3 +1,7 @@
+---
+description: "How submersible sewage pumps work — sealed motor design, impeller types, solid handling, and the differences between sewage, sludge, and cutter pump variants."
+---
+
 # How Submersible Sewage Pumps Work: A Comprehensive Guide
 
 # How Submersible Sewage Pumps Work: A Comprehensive Guide

@@ -1,3 +1,7 @@
+---
+description: "Understand sewage pump flow rates — what they mean, how to calculate peak flow, and how to match flow rate and head to your system requirements."
+---
+
 # A Beginner's Guide to Understanding Sewage Pump Flow Rates
 
 # A Beginner's Guide to Understanding Sewage Pump Flow Rates

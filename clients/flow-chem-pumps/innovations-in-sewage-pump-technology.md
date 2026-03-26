@@ -1,3 +1,7 @@
+---
+description: "Innovations in sewage pump technology — vortex impellers, IoT integration, VFD control, biological treatment advances, and what they mean for wastewater management."
+---
+
 # Innovations in Sewage Pump Technology: Enhancing Efficiency
 
 # Innovations in Sewage Pump Technology: Enhancing Efficiency

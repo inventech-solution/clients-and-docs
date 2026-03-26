@@ -1,3 +1,7 @@
+---
+description: "Browse Flow Chem Pumps' full range of submersible pumps — wastewater, sewage/sludge, drainage, cutter, jet aerator, and agitator slurry models. ISO 9001:2015 certified."
+---
+
 # Flow Chem Pumps — Submersible Wastewater Pump Manufacturers
 
 ## Our Products

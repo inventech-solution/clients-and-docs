@@ -1,3 +1,7 @@
+---
+description: "How to correctly size a sewage pump — calculating flow rate, total dynamic head, solid handling requirements, and selecting the right HP for your system."
+---
+
 # How to Properly Size a Sewage Pump for Your Property
 
 # How to Properly Size a Sewage Pump for Your Property
@@ -80,3 +84,4 @@ To ensure long-term reliability, working with trusted slurry pump manufacturers,
 - [Drainage Pump](drainage-pump.md)
 - [Understanding Sewage Pump Flow Rates](a-beginners-guide-to-understanding-sewage-pump-flow-rates.md)
 - [How to Select a Submersible Pump: Flow Rate & Head Height](how-to-select-a-submersible-pump-with-the-right-flow-rate-and-head-height.md)
+- [How to Choose the Right Sewage Pump for Basement Applications](how-to-choose-the-right-sewage-pump-for-basements.md)

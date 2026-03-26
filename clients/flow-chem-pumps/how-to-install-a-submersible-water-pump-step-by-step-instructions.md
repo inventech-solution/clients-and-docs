@@ -1,3 +1,7 @@
+---
+description: "Step-by-step submersible pump installation guide — tools, preparation, pump lowering, electrical connection, testing, and safety precautions for correct setup."
+---
+
 # How to Install a Submersible Water Pump: Step-by-Step Instructions
 
 # How to Install a Submersible Water Pump: Step-by-Step Instructions

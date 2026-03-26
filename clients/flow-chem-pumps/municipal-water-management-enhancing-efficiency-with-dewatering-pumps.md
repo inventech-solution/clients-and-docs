@@ -1,3 +1,7 @@
+---
+description: "How dewatering pumps enhance municipal water management — flood prevention, STP integration, energy efficiency, and technology upgrades for urban water systems."
+---
+
 # Municipal Water Management: Enhancing Efficiency with Dewatering Pumps
 
 # Municipal Water Management: Enhancing Efficiency with Dewatering Pumps

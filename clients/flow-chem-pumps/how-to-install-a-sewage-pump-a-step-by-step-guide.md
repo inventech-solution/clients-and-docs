@@ -1,3 +1,7 @@
+---
+description: "Step-by-step guide to installing a sewage pump — site preparation, check valve installation, electrical connection, testing, and commissioning for reliable operation."
+---
+
 # How to Install a Sewage Pump: A Step-by-Step Guide
 
 # How to Install a Sewage Pump: A Step-by-Step Guide

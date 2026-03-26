@@ -1,3 +1,7 @@
+---
+description: "Electricity consumption of submersible pumps by HP — factors affecting power use, how to calculate running costs, and practical tips to reduce energy consumption."
+---
+
 # How Much Electricity Does a Submersible Water Pump Consume?
 
 # How Much Electricity Does a Submersible Water Pump Consume?

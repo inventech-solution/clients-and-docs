@@ -1,3 +1,7 @@
+---
+description: "Submersible dewatering pumps for construction sites. Handles silty water, abrasive solids, continuous duty. 1–15 HP, cast iron or SS. Flow Chem Pumps, Gujarat."
+---
+
 # Dewatering Pumps for Construction Sites — Flow Chem Pumps
 
 # Dewatering Pumps for Construction
