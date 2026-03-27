@@ -1,6 +1,10 @@
-# Beginner’s Guide to Understanding Sewage Pump Flow Rates
+---
+description: "Understand sewage pump flow rates — what they mean, how to calculate peak flow, and how to match flow rate and head to your system requirements."
+---
 
-# A Beginner’s Guide to Understanding Sewage Pump Flow Rates
+# A Beginner's Guide to Understanding Sewage Pump Flow Rates
+
+# A Beginner's Guide to Understanding Sewage Pump Flow Rates
 
 When it comes to managing wastewater systems, one of the most critical components is the sewage pump. Whether you’re dealing with residential, commercial, or municipal sewage, the right pump ensures smooth and efficient flow of wastewater, minimizing the risk of backups, flooding, or damage to the system. Among the essential factors to consider when selecting a sewage pump, the flow rate stands out as one of the most important.
 
@@ -101,3 +105,12 @@ When choosing a sewage pump, consider the following factors:
 Understanding the flow rate of a sewage pump is essential for maintaining an efficient and reliable wastewater management system. By calculating the necessary flow rate based on system demands, peak flows, and head requirements, you can select the right pump to ensure long-term performance and avoid costly system failures.
 
 Whether you are dealing with a residential, commercial, or industrial system, choosing the correct sewage pump with the appropriate flow rate is a crucial step toward safeguarding your system's functionality.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump](dewatering-pump.md)
+- [How to Select a Submersible Pump: Flow Rate & Head Height](how-to-select-a-submersible-pump-with-the-right-flow-rate-and-head-height.md)
+- [how-to-properly-size-a-sewage-pump-for-your-property.md](how-to-properly-size-a-sewage-pump-for-your-property.md)

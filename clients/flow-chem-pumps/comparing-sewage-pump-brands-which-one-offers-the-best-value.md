@@ -1,3 +1,7 @@
+---
+description: "How to compare sewage pump specifications for best value — build quality, seal type, solid handling, IP rating, and total cost of ownership. Specification-first guide."
+---
+
 # Comparing Sewage Pump Specifications: What Offers the Best Value?
 
 # Comparing Sewage Pumps: What to Look for to Get the Best Value
@@ -77,3 +81,13 @@ Flow Chem Pumps is an ISO 9001:2015 certified manufacturer with over 20 years of
 ## Conclusion
 
 The best value in a sewage pump comes from matching specifications precisely to your application — not from selecting a brand by reputation alone. Prioritise build material, sealing quality, solid handling capacity, and IP rating. Verify ISO certification and evaluate the manufacturer's ability to provide technical support and spare parts. A well-specified pump from a proven industrial manufacturer will consistently outperform an over-marketed product that is not built for your conditions.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Cutter Pump](cutter-pump.md)
+- [how-to-choose-the-best-submersible-pump-for-your-needs.md](how-to-choose-the-best-submersible-pump-for-your-needs.md)
+- [Sewage Pump Installation Costs](a-complete-overview-of-sewage-pump-installation-costs-and-considerations.md)
+- [Affordable Submersible Pumps: Reliable & Cost-Effective Solutions](affordable-submersible-pumps.md)

@@ -1,4 +1,8 @@
-# Durable Submersible Pumps for Heavy-Duty Industrial Use
+---
+description: "Durable submersible pumps for heavy-duty industrial use — materials, motor ratings, and design features that determine performance in mining, construction, and wastewater."
+---
+
+# Durable Submersible Pumps for Heavy-Duty Industrial Applications
 
 # Durable Submersible Pumps for Heavy-Duty Industrial Applications
 
@@ -64,3 +68,13 @@ Regular maintenance is essential to ensure the longevity and efficiency of subme
 ## Conclusion
 
 Submersible pumps are invaluable in many industrial applications due to their ability to handle a variety of challenging tasks. By understanding the different types of pumps and their specific applications, industries can significantly enhance their operational capabilities and efficiency.
+
+---
+
+## Related reading
+
+- [Submersible Pump Range](best-submersible-pump.md)
+- [Dewatering Pump Manufacturers](dewatering-pump-manufacturers.md)
+- [Advancements in Dewatering Pump Technology](advancements-in-dewatering-pump-technology-for-aggressive-chemical-environments.md)
+- [Comparing Sewage Pump Specifications](comparing-sewage-pump-brands-which-one-offers-the-best-value.md)
+- [Best Submersible Water Pumps for Industrial Use in 2025](best-submersible-water-pumps-for-industries-use-in-2025.md)

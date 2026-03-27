@@ -1,3 +1,7 @@
+---
+description: "Flow Chem 4-pole submersible sewage and slurry pump. 1440 RPM, up to 200 m³/hr, solids to 70mm, 3–15 HP. IP68, double mechanical seal, CETP/STP/ETP application."
+---
+
 # Flow Chem Pumps 4 POLE SUBMERSIBLE SEWAGE / SLURRY PUMP Manufacturers 
 
 # 4 POLE SUBMERSIBLE SEWAGE / SLURRY PUMP

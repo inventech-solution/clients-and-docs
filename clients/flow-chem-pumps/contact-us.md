@@ -1,3 +1,7 @@
+---
+description: "Contact Flow Chem Pumps Pvt. Ltd. Factory: GIDC Umbergaon, Gujarat. Sales office: Borivali, Mumbai. Phone: 7666745564. Email: saleflowchem@gmail.com."
+---
+
 # Contact Us Flowchem Pumps
 
 # Contact Us

@@ -1,27 +1,53 @@
-# About Flowchem Pumps
+---
+description: "Flow Chem Pumps Pvt. Ltd. — ISO 9001:2015 certified submersible pump manufacturer in Gujarat, India. 20+ years manufacturing sewage, dewatering, and drainage pumps."
+---
 
-# About Us
+# About Flow Chem Pumps — Submersible Pump Manufacturer, India
 
-# Flow Chem Pumps Pvt. Ltd.
+# About Flow Chem Pumps Pvt. Ltd.
 
-About US With the excellence gained in pump technology over the period of 20 years, Flow Chem has introduced highly efficient and reliable sewage pump & Drainage pump in a comprehensive range.
+Flow Chem Pumps Pvt. Ltd. is an ISO 9001:2015 certified manufacturer of submersible pumps for sewage, wastewater, dewatering, drainage, and slurry applications. Established in 2002, we have spent over 20 years developing and manufacturing pumps that perform in the most demanding industrial, municipal, and construction environments.
 
-These pumps are available with different material of construction and feature a multitude of application in waste water handling & treatment.
+Our manufacturing facility is located in GIDC, Umbergaon, Gujarat — one of India's established industrial manufacturing zones. Every pump we produce is assembled under our documented quality management system, tested before dispatch, and backed by a team with deep application knowledge across sewage treatment, construction dewatering, and industrial effluent management.
 
-Besides expanding its products portfolio, Flow Chem is firmly committed to contribute a vital role in creating a more pleasant and affluent living condition worldwide, which is one among its ambitious goal.
+## What We Make
 
-## Flow Chem Pumps
+We manufacture a comprehensive range of submersible pumps:
 
-Flow Chem, an ISO:9001-2015 certified company, with an excellence gained in pump technology over the period of 20 years. We've introduced highly efficient and reliable sewage & drainage pumps in a comprehensive range. These pumps are available with different material of construction and feature a multitude of application in waste water handling & treatment.
+- **Submersible wastewater pumps** — for sewage transport in residential, commercial, and municipal applications
+- **Submersible sewage / sludge pumps** — for continuous duty in ETP, STP, and CETP treatment plants
+- **Submersible drainage pumps** — for high flow rate water removal in construction and flood control
+- **Submersible cutter pumps** — for sewage containing fibrous waste, rags, and mixed solids
+- **Submersible jet aerator pumps** — for biological treatment aeration in wastewater plants
+- **Submersible agitator slurry pumps** — for mining, dredging, and heavy industrial sludge applications
 
-2002
-Since
+All pumps are available in cast iron, SS304, and SS316 material of construction, with power options from 1 HP to 15 HP and IP68 protection for continuous submerged operation.
 
-1998+
-Yearly Pumps Supplied
+## Who We Serve
 
-20+
-Applications
+Flow Chem Pumps supplies builders, construction contractors, industrial dealers, infrastructure firms, and municipal bodies across India. Our buyers are specification-driven — they need pumps that meet precise technical requirements, perform under continuous duty, and come with the quality documentation their projects demand.
 
-100+
-Happy Clients
+We do not sell borewell pumps or consumer products. Our focus is entirely on industrial and commercial submersible pump applications.
+
+## Our Credentials
+
+| | |
+|---|---|
+| **Established** | 2002 |
+| **Certification** | ISO 9001:2015 Quality Management System |
+| **Manufacturing** | GIDC, Umbergaon, Dist. Valsad, Gujarat |
+| **Annual supply** | 1,998+ pumps |
+| **Applications served** | 20+ industrial and municipal use cases |
+| **Clients** | 100+ across India |
+
+## Contact Us
+
+**Factory:**
+C1-275/18, GIDC, Umbergaon, Dist. Valsad 396171, Gujarat, India
+
+**Sales Office:**
+208, 2nd Floor, Lalji Shopping Centre, S.V. Road, Borivali West, Mumbai
+
+**Phone:** 7666745564 / 8433936502
+**Email:** saleflowchem@gmail.com
+**Website:** www.theflowchempumps.com
