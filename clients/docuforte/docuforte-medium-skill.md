@@ -1,6 +1,7 @@
 ---
 name: docuforte-medium-content
-description: Create and optimize Medium articles for Docuforte to build topical authority, drive SEO traffic, and generate leads. Use when planning Medium content around document digitisation, DMS, government records management, compliance, and industry-specific workflows. Goal: drive views → backlinks → organic rankings → lead generation.
+description: Create and optimize Medium articles for Docuforte to build topical authority, drive SEO traffic, and generate leads. Use when planning Medium content around document digitisation, DMS, government records management, compliance, and industry-specific workflows. 
+Goal: drive views → backlinks → organic rankings → lead generation.
 metadata:
   version: 1.0.0
 ---
