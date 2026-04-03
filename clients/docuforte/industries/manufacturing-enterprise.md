@@ -5,8 +5,8 @@
 ## SEO Meta
 
 **Slug:** `/industries/manufacturing`
-**SEO Title (58 chars):** `Document Management for Manufacturing & Enterprise | Docuforte`
-**Meta Description (157 chars):** `Docuforte helps manufacturers and large enterprises manage quality documents, compliance records, and operational files with AI-powered search and secure access.`
+**SEO Title (49 chars):** `Document Management for Manufacturing | Docuforte`
+**Meta Description (157 chars):** `Docuforte helps manufacturers manage quality documents, compliance records, and operational files with AI-powered search, version control, and secure access.`
 **Primary Keyword:** document management for manufacturing
 **Secondary Keywords:** enterprise document management system India, manufacturing document control software, ISO document management system, quality management document system, compliance document management India
 **Schema Type:** `WebPage` + `FAQPage`
